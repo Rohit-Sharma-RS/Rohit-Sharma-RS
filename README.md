@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">I'm a passionate developer with a strong foundation in Python programming. My expertise spans across numerous domains, including **machine learning (ML)**, **deep learning (DL)**, and especially **generative networks** created from scratch. I love crafting innovative solutions and sharing small yet useful scripts with the community.</h3>
+<h3 align="center">I'm a passionate developer with a strong foundation in Python programming. My expertise spans across numerous domains, including machine learning (ML), deep learning (DL), and especially generative networks created from scratch. I love crafting innovative solutions and sharing small yet useful scripts with the community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-sharma-rs&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-sharma-rs" /> </p>
 
