@@ -9,10 +9,12 @@
     <img src="https://komarev.com/ghpvc/?username=rohit-sharma-rs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <br>
-<div align="center" style="position: relative; width: 100%; padding-bottom: 100%; max-width: 200px; margin: auto;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRsd3hxdTBoZmhxY2d0Z2ExZTd6ZnBxYng3Ynhnc2dzNmcwOW42YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" 
+<br>
+<div align="center" style="position: relative; width: 100%; padding-bottom: 10%; max-width: 200px; margin: auto;">
+    <img src=https://imgs.search.brave.com/WQmV8nGQdrVMHYsFSHIp8k30EVXKbrgOM150LfqcXSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif 
          alt="GIF" style="width: 100%; height: auto; border-radius: 50%;">
 </div>
+
 
 ---
 
