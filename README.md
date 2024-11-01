@@ -9,11 +9,11 @@
     <img src="https://komarev.com/ghpvc/?username=rohit-sharma-rs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <br>
-<br>
-<div align="center" style="position: relative; width: 100%; padding-bottom: 5%; max-width: 400px; margin: auto;">
+<div align="center" style="position: relative; width: 100%; padding-bottom: 100%; max-width: 200px; margin: auto;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRsd3hxdTBoZmhxY2d0Z2ExZTd6ZnBxYng3Ynhnc2dzNmcwOW42YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" 
-         alt="GIF" style="width: 100%; max-height: 400px; border-radius: 20px;">
+         alt="GIF" style="width: 100%; height: auto; border-radius: 50%;">
 </div>
+
 ---
 
 ### 🏆 GitHub Trophies
