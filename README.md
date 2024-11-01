@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
+
 <h3 align="center">
     I'm a passionate developer with a strong foundation in Python programming. My expertise spans across numerous domains, including machine learning (ML), deep learning (DL), and especially generative networks created from scratch. I love crafting innovative solutions and sharing small yet useful scripts with the community.
 </h3>
 
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=rohit-sharma-rs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<br>
+<br>
+<div align="center" style="position: relative; width: 100%; max-width: 400px; margin: auto;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRsd3hxdTBoZmhxY2d0Z2ExZTd6ZnBxYng3Ynhnc2dzNmcwOW42YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" 
+         alt="GIF">
+</div>
 ---
 
 ### 🏆 GitHub Trophies
