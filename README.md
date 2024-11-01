@@ -10,10 +10,11 @@
 </p>
 <br>
 <br>
-<div align="center" style="position: relative; width: 100%; max-width: 400px; margin: auto;">
+<div align="center" style="position: relative; width: 100%; padding-bottom: 5%; max-width: 400px; margin: auto;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRsd3hxdTBoZmhxY2d0Z2ExZTd6ZnBxYng3Ynhnc2dzNmcwOW42YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" 
-         alt="GIF">
+         alt="GIF" style="width: 100%; height: 400; border-radius: 20px;">
 </div>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -61,7 +62,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
+---<br>
 
 ### 📊 GitHub Stats:
 <p align="center">
