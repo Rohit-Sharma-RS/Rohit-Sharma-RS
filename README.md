@@ -27,10 +27,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏅 Badges
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rohit-sharma-rs&theme=onedark" alt="GitHub Profile Trophies" />
+    <a href="https://holopin.io/@rohitsharmars" target="_blank">
+        <img src="https://holopin.me/rohitsharmars" alt="Rohit's collection" />
     </a>
 </p>
 ---
