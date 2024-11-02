@@ -27,7 +27,12 @@
 
 ---
 
-[![Rohit's collection](https://holopin.me/rohitsharmars)](https://holopin.io/@rohitsharmars)
+### 🏆 GitHub Trophies
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=rohit-sharma-rs&theme=onedark" alt="GitHub Profile Trophies" />
+    </a>
+</p>
 ---
 
 ### 👨‍💻 About Me
