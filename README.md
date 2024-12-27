@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/037b9854-c020-4600-b810-613e36e55d06)<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
+<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 
 <h3 align="center">
     I'm a passionate developer with a strong foundation in Python programming. My expertise spans across numerous domains, including machine learning (ML), deep learning (DL), and especially generative networks created from scratch. I love crafting innovative solutions and sharing small yet useful scripts with the community.
