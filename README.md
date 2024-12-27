@@ -89,7 +89,6 @@
 
 ### 🌟 Fun Quote
 <p align="center">
-    <img src="https://www.pngall.com/quotation-symbol-png/" width="60" alt="Animated Quote" />
     <i>"Sometimes it’s not about who has more talent, it’s about who’s hungrier." - Anonymous
 
 </i>
