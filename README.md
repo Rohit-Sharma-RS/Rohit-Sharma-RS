@@ -21,7 +21,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rohit-sharma-rs&theme=onedark" alt="GitHub Profile Trophies" />
+        <img src="[https://github-profile-trophy.vercel.app/?username=rohit-sharma-rs&theme=onedark](https://github-profile-trophy-orcin-eta.vercel.app/?username=rohit-sharma-rs)" alt="GitHub Profile Trophies" />
     </a>
 </p>
 
